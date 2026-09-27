@@ -89,10 +89,6 @@ cargo run
 4. Push a la rama (`git push origin feature/nueva-feature`)
 5. Crea un Pull Request
 
-## Licencia
-
-[MIT License](LICENSE)
-
 ## Notas
 
 Esta aplicación demuestra el uso avanzado de Ratatui para crear interfaces de usuario interactivas en terminal, incluyendo:
